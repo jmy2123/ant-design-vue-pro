@@ -8,6 +8,7 @@
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint"
   },
+  "homepage": "https://jmy2123.github.io/ant-design-vue-pro/dist/",
   "dependencies": {
     "ant-design-vue": "^1.6.3",
     "core-js": "^3.6.5",
